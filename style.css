@@ -1,0 +1,43 @@
+#app{
+    width: 100%;
+    height: 800px;
+    background-color: aquamarine;
+}
+.line{
+    width: 80px;
+    height: 6px;
+    background-color: cadetblue;
+    margin: 8px auto;
+}
+body{
+    text-align: center;
+
+}
+#games{
+    width: 100%;
+    height: 800px;
+    background-color: chartreuse;
+}
+#artist{
+    width: 100%;
+    height: 800px;
+    background-color: darkred;
+}
+#MyCarousel
+{
+    background-color: lightcoral;
+}
+
+#MyCarousel img
+{
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p
+{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color : white;
+    font-size: 20px;
+}
